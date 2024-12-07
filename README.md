@@ -1,5 +1,5 @@
 # Optimiser-les-Bases-de-Donn-es-Meilleures-Pratiques-et-Techniques-pour-des-Performances-Accrues<br>
-L'optimisation des bases de données est essentielle pour garantir des performances accrues, particulièrement lorsque les volumes de données augmentent. Voici quelques meilleures pratiques et techniques pour améliorer les performances des bases de données : <br>
+L'optimisation des bases de données est essentielle pour garantir des performances accrues, particulièrement lorsque les volumes de données augmentent. Voici quelques meilleures pratiques et techniques pour améliorer les performances des bases de données : <br><br>
 **1. Indexation**<br>
 Création d'index appropriés : Les index permettent de réduire le temps de recherche et d’améliorer les performances des requêtes. Il est important de créer des index sur les colonnes fréquemment utilisées dans les clauses WHERE, JOIN et ORDER BY.
 Utilisation d'index composites : Lorsqu'une requête implique plusieurs colonnes, un index composite (index couvrant plusieurs colonnes) peut améliorer la performance.<br>
