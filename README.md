@@ -2,7 +2,7 @@
 L'optimisation des bases de données est essentielle pour garantir des performances accrues, particulièrement lorsque les volumes de données augmentent. Voici quelques meilleures pratiques et techniques pour améliorer les performances des bases de données : <br><br>
 **1. Indexation**<br>
 Création d'index appropriés : Les index permettent de réduire le temps de recherche et d’améliorer les performances des requêtes. Il est important de créer des index sur les colonnes fréquemment utilisées dans les clauses WHERE, JOIN et ORDER BY.
-Utilisation d'index composites : Lorsqu'une requête implique plusieurs colonnes, un index composite (index couvrant plusieurs colonnes) peut améliorer la performance.<br>
+Utilisation d'index composites : Lorsqu'une requête implique plusieurs colonnes, un index composite (index couvrant plusieurs colonnes) peut améliorer la performance.<br><br>
 **2. Normalisation et Dé-normalisation**<br>
 Normalisation : Assurez-vous que la base de données est correctement normalisée pour éviter la redondance des données. Cela peut réduire les coûts de stockage et améliorer les performances des requêtes en minimisant la duplication de données.
 Dé-normalisation : Dans certains cas, il peut être bénéfique de dé-normaliser certaines tables pour réduire le nombre de JOIN et améliorer la vitesse de certaines requêtes.<br>
