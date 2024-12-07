@@ -30,5 +30,5 @@ Analyse des performances : Utilisez des outils de profilage pour comprendre quel
 Surveillance continue : Mettez en place des systèmes de surveillance pour détecter des anomalies dans les performances de la base de données en temps réel.<br><br>
 **10. Choix du Système de Gestion de Base de Données (SGBD)**<br>
 SGBD adapté : Choisissez un SGBD en fonction des besoins de l'application. Par exemple, MySQL est souvent plus performant pour les applications web légères, tandis que PostgreSQL ou Oracle peuvent être plus adaptés pour les applications complexes et transactionnelles.<br><br>
-**Conclusion**<br><br>
+**Conclusion**<br>
 L’optimisation des bases de données nécessite une approche systématique qui couvre à la fois l’architecture, la gestion des requêtes, l’indexation, ainsi que la maintenance. Une bonne stratégie d’optimisation se base sur une analyse approfondie des besoins spécifiques de l’application, des utilisateurs et des données.<br>
